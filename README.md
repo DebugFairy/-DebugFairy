@@ -1,8 +1,4 @@
- 
-🌸 Hello, I’m Sherin 👋
-Dreaming in code & colors… learning AI one step at a time.
-
-</div>
+ 🌸 Hello, I’m Sherin 👋
 ✨ About Me
 🌷 I’m Sherin Mohammed, a curious soul learning Artificial Intelligence, Machine Learning & Web Development.
 🩷 I love mixing technology with creativity 🌈.
