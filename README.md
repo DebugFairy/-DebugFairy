@@ -1,47 +1,53 @@
-<div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" /> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br>
-
-✨ Busy learning & vibing to:
-<details> <summary>Click to see what I'm listening to 🎵</summary>
-
-
-</details>
-
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjF2bHpybGl2NGk3N3ZmcTBzY25uMHNrb2l6N3ExdWN3aTg1c3oycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AjY6xg9mOZlDOxMp7d/giphy.gif" width="200" />
+🌸 Hello, I’m Sherin 👋
+Dreaming in code & colors… learning AI one step at a time.
 
 </div>
-🚀 Tools I Use
+✨ About Me
+🌷 I’m Sherin Mohammed, a curious soul learning Artificial Intelligence, Machine Learning & Web Development.
+🩷 I love mixing technology with creativity 🌈.
+🎀 Currently learning Python, Linux, and AI basics.
+💌 I believe in sharing kindness, knowledge, and sparkles wherever I go! ✨
 
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l3eGFmcHkwcm5hNWV0cTJuN3EyZDJqajF6enBsbzQ2Z3V1dHJ0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/muGYyrK2Gxf7Fb3MRK/giphy.gif" width="300"/> </div>
+💻 Skills & Tools I’m Learning
+🎨 Languages & Frameworks
 
+🐍 Python
 
+🌐 HTML + CSS + JS
 
+🖤 Bash & Linux basics
 
+🧸 Tools I Like
 
+📝 VS Code
 
+🎨 Figma
 
+🐧 Linux
 
+🧰 Git & GitHub
 
-dart
-Copy
-Edit
-// Quick summary of my stack
+🦄 Soft Skills
 
-class Sherin extends Learner {
-  const toolsILearn = {
-    "Programming": { "Python", "C++", "HTML", "CSS", "Bash" },
-    "Platforms": { "Linux", "Windows" },
-    "Tools": { "Git", "VSCode", "Figma" }
-  };
-}
-🌟 About Me
-🐧 I’m currently learning AI, ML & Web Development
+🌟 Problem Solving
 
-💻 I like exploring GNU/Linux
+💡 Creativity
 
-📩 Ask me about tech, movies, or learning paths
+✨ Positive Energy
 
-✨ Fun fact: Machines can’t (yet) feel… but they can learn!
+📈 My GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=cobalt" width="45%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=cobalt" width="45%"/> </div>
+🌸 Let’s Be Friends!
+💌 Telegram
+💼 LinkedIn
+📮 Email: your-email@example.com
 
-<div align="center" > <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> <details> <summary>More stats</summary> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > </details>
-🎯 Code Cycle
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Confused"/> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Relieved"/> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Astonished"/> </div>
+<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW12OG1mbml3ZzFpMGpxemlpcWx2ZTRrbWNydGZubmxoNmF0NmU3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JmD28tKzJjv0k/giphy.gif" width="200"/> </div>
+🌟 Fun Facts
+🌈 I like learning while sipping coffee & listening to lofi beats.
+💖 I believe every bug is just a misunderstood feature.
+🦋 I collect cute wallpapers and terminal themes.
+
+✨ Thanks for stopping by! Feel free to star 🌟 my repositories or send me a message anytime 💌
