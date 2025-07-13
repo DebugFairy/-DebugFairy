@@ -37,9 +37,9 @@ And still chasing my star. 🌟
 ---
 
 ## 🌸 Let’s Connect!  
-🌷 Telegram: *your-telegram*  
+🌷 Telegram: *https://t.me/i00o_i*  
 🌷 LinkedIn: *your-linkedin*  
-🌷 Email: *your-email@example.com*
+🌷 Email: *sherinmohammed29@gmail.com*
 
 ---
 
