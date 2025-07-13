@@ -5,7 +5,6 @@
 🎀 Currently learning Python, Linux, and AI basics.
 💌 I believe in sharing kindness, knowledge, and sparkles wherever I go! ✨
 
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l3eGFmcHkwcm5hNWV0cTJuN3EyZDJqajF6enBsbzQ2Z3V1dHJ0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/muGYyrK2Gxf7Fb3MRK/giphy.gif" width="300"/> </div>
 💻 Skills & Tools I’m Learning
 🎨 Languages & Frameworks
 
