@@ -1,22 +1,22 @@
- 🌸 Hello, I’m Sherin 👋
+🌸 Hello, I’m Sherin 👋
+Dreaming in code & colors… learning AI one step at a time.
+
 ✨ About Me
 🌷 I’m Sherin Mohammed, a curious soul learning Artificial Intelligence, Machine Learning & Web Development.
 🩷 I love mixing technology with creativity 🌈.
 🎀 Currently learning Python, Linux, and AI basics.
-💌 I believe in sharing kindness, knowledge, and sparkles wherever I go! ✨
+💌 I believe in sharing kindness, knowledge, and sparkles wherever I go ✨.
 
 💻 Skills & Tools I’m Learning
 🎨 Languages & Frameworks
-
 🐍 Python
 
-🌐 HTML + CSS + JS
+🌐 HTML + CSS + JavaScript
 
 🖤 Bash & Linux basics
 
 🧸 Tools I Like
-
-📝 VS Code
+📝 Visual Studio Code
 
 🎨 Figma
 
@@ -25,7 +25,6 @@
 🧰 Git & GitHub
 
 🦄 Soft Skills
-
 🌟 Problem Solving
 
 💡 Creativity
@@ -33,16 +32,19 @@
 ✨ Positive Energy
 
 📈 My GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=cobalt" width="45%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=cobalt" width="45%"/> </div>
+markdown
+Copy
+Edit
+✨ Stats will appear here once I grow my GitHub garden 🌱✨
 🌸 Let’s Be Friends!
-💌 Telegram
-💼 LinkedIn
+💌 Telegram: your-telegram
+💼 LinkedIn: your-linkedin
 📮 Email: your-email@example.com
 
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW12OG1mbml3ZzFpMGpxemlpcWx2ZTRrbWNydGZubmxoNmF0NmU3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JmD28tKzJjv0k/giphy.gif" width="200"/> </div>
 🌟 Fun Facts
-🌈 I like learning while sipping coffee & listening to lofi beats.
+🌈 I love learning while sipping coffee & listening to lofi beats.
 💖 I believe every bug is just a misunderstood feature.
 🦋 I collect cute wallpapers and terminal themes.
 
 ✨ Thanks for stopping by! Feel free to star 🌟 my repositories or send me a message anytime 💌
+
