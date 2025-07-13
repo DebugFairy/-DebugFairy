@@ -36,10 +36,22 @@ And still chasing my star. 🌟
 
 ---
 
-## 🌸 Let’s Connect!  
-🌷 Telegram: *https://t.me/i00o_i*  
-🌷 LinkedIn: *your-linkedin*  
-🌷 Email: *sherinmohammed29@gmail.com*
+## 🌸 Let’s Connect!
+
+<p align="center">
+<a href="https://t.me/i00o_i)" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:sherinmohammed29@gmail.com ">
+<img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email"/>
+</a>
+</p>
+
 
 ---
 
