@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjF2bHpybGl2NGk3N3ZmcTBzY25uMHNrb2l6N3ExdWN3aTg1c3oycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AjY6xg9mOZlDOxMp7d/giphy.gif" width="200" />
+ 
 🌸 Hello, I’m Sherin 👋
 Dreaming in code & colors… learning AI one step at a time.
 
